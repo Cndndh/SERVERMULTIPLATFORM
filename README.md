@@ -15,11 +15,16 @@ cd bungee && sudo java -jar bungee.jar - в вторую консоль
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 после переходим и регаемся на сайте playit.gg
 
-вводим эти команды в третью крнсоль:
+вводим эти команды в третью консоль:
+
 curl -SsL https://playit-cloud.github.io/ppa/key.gpg | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/playit.gpg >/dev/null
+
 echo "deb [signed-by=/etc/apt/trusted.gpg.d/playit.gpg] https://playit-cloud.github.io/ppa/data ./" | sudo tee /etc/apt/sources.list.d/playit-cloud.list
+
 sudo apt update
+
 sudo apt install playit
+
 playit
 
 после етого переходим в 3 консоль где мы вводили команды связаные с playit.gg и переходим по сылке которую нам дала командная строка 
