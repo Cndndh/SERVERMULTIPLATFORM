@@ -36,7 +36,8 @@ playit
 
 вооля копируем айпи который нам дал playit.gg и заходим с Minecraft Java Edition (по стандару стоит версия 1.8.8 , после установки плагина viaversions можно захадить с более высоких версий)
 
-![image](https://github.com/user-attachments/assets/ccec721c-6145-4a66-bea0-2fd1311dac0e)
+![Screenshot 2025-05-07 20 04 54](https://github.com/user-attachments/assets/28b1c954-381f-4abb-845c-0f76f2358df6)
+
 для Eaglercraft  жмём на выделеную кнопку на изображении
 приставку https//: меняем на wss//:
 добовляем и заходим
