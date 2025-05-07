@@ -1,6 +1,6 @@
 # SERVERMULTIPLATFORM
 загатовка мультиплатформенного сервера между Eaglercraft и Minecraft java edition
-![logo](https://github.com/user-attachments/assets/6abdde76-60e4-40c1-ad27-1feb3fbd5358)
+![EaglerCraft-Server-Host-07-05-2025](https://github.com/user-attachments/assets/7fd1d4c6-5484-4314-8dbe-8a6ff555bdaf)
 
 
 # Установка
